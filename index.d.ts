@@ -1,4 +1,4 @@
-enum Channel {
+declare enum Channel {
     ios = 'iOS',
     android = 'Android'
 }

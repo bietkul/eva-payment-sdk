@@ -1,5 +1,7 @@
-import PaymentOptions from './paymentOptions'
+import PaymentOptions from './components/paymentOptions'
+import MakePayment from './components/makePayment';
 
 export {
-    PaymentOptions
+    PaymentOptions,
+    MakePayment
 }
