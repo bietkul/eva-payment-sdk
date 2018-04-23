@@ -1,0 +1,11 @@
+{
+  "name": "eva-payment-sdk",
+  "version": "1.0.0",
+  "description": "React Native Sdk to make payments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kuldeep Saxena <kul.anjuma@gmail.com>",
+  "license": "ISC"
+}
