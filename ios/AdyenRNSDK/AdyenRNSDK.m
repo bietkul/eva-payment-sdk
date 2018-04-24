@@ -6,7 +6,7 @@
 //  Copyright © 2018 Kuldeep Saxena. All rights reserved.
 //
 
-#import "ScannerSDKPlugin.h"
+#import "AdyenRNSDK.h"
 
 @implementation AdyenRNSDK {
     RCTResponseSenderBlock _successCallback;

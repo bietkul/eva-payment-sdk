@@ -6,7 +6,6 @@
 //  Copyright © 2018 Kuldeep Saxena. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
 #import <React/RCTBridgeModule.h>
 
 
